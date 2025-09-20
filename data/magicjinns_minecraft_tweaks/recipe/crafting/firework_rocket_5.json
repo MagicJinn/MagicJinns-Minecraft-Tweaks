@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "firework_rocket",
+    "category": "equipment",
+    "ingredients": [
+        "minecraft:gunpowder",
+        "minecraft:gunpowder",
+        "minecraft:gunpowder",
+        "minecraft:gunpowder",
+        "minecraft:gunpowder",
+        "minecraft:paper"
+    ],
+    "result": {
+        "id": "minecraft:firework_rocket",
+        "components": {
+            "minecraft:fireworks": {
+                "flight_duration": 5
+            }
+        },
+        "count": 3
+    }
+}
