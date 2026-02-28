@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "#",
+    "i",
+    "#"
+  ],
+  "key": {
+    "#": [
+      "minecraft:copper_nugget"
+    ],
+    "i": [
+      "minecraft:copper_ingot"
+    ]
+  },
+  "result": {
+    "id": "minecraft:copper_chain",
+    "count": 8
+  }
+}
